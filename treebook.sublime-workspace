@@ -1,0 +1,216 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"webki",
+				"webkit-transform"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"trans",
+				"translateX"
+			],
+			[
+				"t",
+				"table-cell"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"max",
+				"max-height"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Sites/projects/treebook/app/views/statuses/_form.html.erb",
+		"/C/Sites/projects/treebook/app/assets/stylesheets/statuses.css.scss",
+		"/C/Sites/projects/treebook/app/views/statuses/index.html.erb",
+		"/C/Sites/projects/treebook/app/assets/stylesheets/application.css",
+		"/C/Sites/projects/treebook/app/assets/stylesheets/bootstrap.css",
+		"/C/Sites/projects/treebook/app/views/layouts/application.html.erb",
+		"/C/Sites/projects/treebook/app/assets/javascripts/statuses.js.coffee",
+		"/C/Users/Xerat/Google Drive/python/installing_asciidoctor.adoc",
+		"/C/Sites/projects/treebook/app/controllers/statuses_controller.rb",
+		"/C/Sites/projects/treebook/app/assets/stylesheets/scaffolds.css.scss",
+		"/C/Sites/projects/treebook/app/controllers/application_controller.rb",
+		"/C/xampp/htdocs/TS/tsmain.html",
+		"/C/xampp/htdocs/omnetgroup/index.html",
+		"/C/xampp/htdocs/omnetgroup/style.css",
+		"/K/python stuff/abomination/abomination/abominationtxt.txt",
+		"/K/python stuff/abomination/abomination/abomination.py",
+		"/K/python stuff/abomination/abomination/sfltparser.py",
+		"/K/python stuff/abomination/abomination/report.py",
+		"/K/python stuff/abomination/abomination/README.txt",
+		"/C/Users/Xerat/Desktop/new website 2tse/3d/style.css",
+		"/K/python stuff/abomination/abomination/distributor.py",
+		"/C/Users/Xerat/Desktop/new website 2tse/3d/3d.html",
+		"/C/Users/Xerat/Desktop/new website 2tse/3d/transforms.css",
+		"/C/Users/Xerat/Desktop/36393/table2csv.py",
+		"/K/python stuff/dbf2csv.py",
+		"/C/Users/Xerat/AppData/Local/Temp/Temp1_asciidoc-cheatsheet-master.zip/asciidoc-cheatsheet-master/asciidoc-866_text.asciidoc",
+		"/C/xampp/htdocs/TTH/css/transitions/transforms-3d/start/page.css",
+		"/C/Users/Xerat/Desktop/new website 2tse/css/style.css",
+		"/C/Users/Xerat/Desktop/new website 2tse/main.html",
+		"/C/xampp/htdocs/TTH/css/transitions/transitions-pt-2/end/style.css",
+		"/C/xampp/htdocs/TTH/css/transitions/transitions/start/index.html",
+		"/C/xampp/htdocs/TTH/css/transitions/transitions/start/style.css",
+		"/C/xampp/htdocs/TTH/css/transitions/transitions/end/style.css",
+		"/C/Users/Xerat/Desktop/new website 2tse/css/reset.css",
+		"/C/Users/Xerat/Desktop/simple3col.html",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/htdocs/TS/css/styles.css",
+		"/C/Users/Xerat/Desktop/test/css/style.css",
+		"/C/Users/Xerat/Desktop/test/index.html",
+		"/C/xampp/htdocs/TS/css/960_24_col_rtl.css",
+		"/F/WEB DEVELOPMENT/Websites/seinvest/css/styles.css",
+		"/F/WEB DEVELOPMENT/Websites/investhack/css/styles.css",
+		"/F/WEB DEVELOPMENT/Websites/investhack/index.html",
+		"/F/WEB DEVELOPMENT/websites backup/all sites 290913/Websites/seinvest/index.html",
+		"/D/backup 141213/htdocs/TS/tsmain.html",
+		"/F/WEB DEVELOPMENT/UDEMY COURSE/test_js.html",
+		"/C/xampp/htdocs/livingphp/livingphp/heritage.php",
+		"/C/xampp/htdocs/livingphp/livingphp/inc/footer.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"%>\n",
+			"% ",
+			" }",
+			"left"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
